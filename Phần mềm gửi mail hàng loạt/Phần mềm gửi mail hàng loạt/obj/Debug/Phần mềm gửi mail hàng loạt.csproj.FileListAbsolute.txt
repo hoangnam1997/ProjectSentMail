@@ -1,0 +1,18 @@
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.exe.config
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.exe
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.pdb
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.csprojResolveAssemblyReference.cache
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần_mềm_gửi_mail_hàng_loạt.Form1.resources
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần_mềm_gửi_mail_hàng_loạt.Properties.Resources.resources
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.csproj.GenerateResource.Cache
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.exe
+D:\study\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.pdb
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.exe.config
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.exe
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.pdb
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.exe
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\bin\Debug\Phần mềm gửi mail hàng loạt.pdb
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.csprojResolveAssemblyReference.cache
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần_mềm_gửi_mail_hàng_loạt.Form1.resources
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần_mềm_gửi_mail_hàng_loạt.Properties.Resources.resources
+E:\Code\Code\c#\code\Phần mềm gửi mail hàng loạt\Phần mềm gửi mail hàng loạt\obj\Debug\Phần mềm gửi mail hàng loạt.csproj.GenerateResource.Cache
